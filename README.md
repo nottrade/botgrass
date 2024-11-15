@@ -26,7 +26,6 @@ python grassbot.py
 - login ke web grass , terus inspect / f12 ,  klik console
 - paste
 ``` 
-localStorage.getItem('userId')
+localStorage.userid
 ```
-- kalau ga bisa paste ketik ```allow pasting``` enter
-- baru paste ```localStorage.getItem('userId')```enter lagi
+- salin user idnya
