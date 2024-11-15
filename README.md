@@ -12,7 +12,7 @@
 git clone https://github.com/nottrade/botgrass.git
 ```
 ```
-cd grass
+cd botgrass
 ```
 ```
 pip install -r requirements.txt
